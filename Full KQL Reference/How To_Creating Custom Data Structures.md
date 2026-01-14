@@ -6,7 +6,7 @@ _Sometimes you need to create data from scratch to act as a whitelist, blacklist
 
 Use `datatable` to define a temporary table manually within your query. This is perfect for creating a static list of known bad IPs or users to join against your live data1111.
 
-+1
+
 
 **Syntax:**
 
