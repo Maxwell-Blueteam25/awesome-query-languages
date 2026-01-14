@@ -24,5 +24,5 @@ _Handling arrays._
 |**`mvexpand`**|Creates a new event row for _each_ value in the array.|`|
 |**`mvcount(X)`**|Returns the size of the array X.|`|
 |**`mvindex(X,Y)`**|Returns the item at index Y in array X.|`|
-|**`mvfilter(X)`**|Filters an array based on a boolean expression X102.|`mvfilter(match(email, "\.net$"))` |
+|**`mvfilter(X)`**|Filters an array based on a boolean expression X.|`mvfilter(match(email, "\.net$"))` |
 |**`mvfind(X,Y)`**|Finds the index of a value matching regex Y in array X.|`|
